@@ -1,0 +1,89 @@
+﻿body {
+    background: pink;
+    color: saddlebrown;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+form input {
+    color: black;
+}
+
+h1, h2 {
+    color: saddlebrown;
+}
+
+.jumbotron {
+    color: saddlebrown;
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+header {
+    background-color: saddlebrown;
+}
+
+a {
+    color: white;
+}
+
+.btn-primary {
+    color: pink;
+    font-weight: bold;
+    background-color: saddlebrown;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: pink;
+    font-weight: bold;
+    background-color: saddlebrown;
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 2px solid linen;
+}
+
+.border-bottom {
+    border-bottom: 2px solid linen;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; 
+    color: pink;
+    background-color: saddlebrown;
+}
